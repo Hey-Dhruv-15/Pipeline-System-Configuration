@@ -41,7 +41,7 @@ classifiers = [
     "Topic :: Software Development :: Libraries :: Python Modules"
 ]
 dependencies = [
-    "pyspark==3.5.2",
+    "pyspark==4.2.1",
     "delta-spark==3.2.0",
     "apache-airflow==2.10.0",
     "streamlit==1.44.1",
