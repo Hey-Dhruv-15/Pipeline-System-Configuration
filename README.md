@@ -19,6 +19,7 @@
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#architecture--medallion-lakehouse-flow">Architecture</a> •
+  <a href="#-mathematical-logic--algorithmic-formulation">Algorithm & Logic</a> •
   <a href="#quickstart-in-60-seconds">Quickstart</a> •
   <a href="#agentic-mcp-integration">Agentic MCP</a> •
   <a href="#configuration-matrix">Configuration</a> •
@@ -104,6 +105,116 @@ flowchart TD
 
     D1 & D2 & D3 & D4 --> Observability
 ```
+
+---
+
+## 🧠 Mathematical Logic & Algorithmic Formulation
+
+To deliver autonomous reliability without manual engineering intervention, the pipeline executes a formal mathematical model for data ingestion, dynamic healing, quality gates, and analytical projection:
+
+<p align="center">
+  <img src="docs/images/mathematical_algorithm.jpg" alt="Self-Healing Pipeline System - Mathematical Logic & Algorithm" width="95%" />
+</p>
+
+### 1. Overall Mathematical Model
+
+The end-to-end transformation of any incoming raw dataset $D$ into high-trust curated analytical outputs $P(D)$ is expressed as a composite function:
+
+$$P(D) = G\Bigl(Q\Bigl(H\Bigl(I(D)\Bigr)\Bigr)\Bigr)$$
+
+Where each operator performs a deterministic stage in the lifecycle:
+- **$I(D)$ (Ingestion & Schema Reconciliation)**: Ingests heterogeneous payloads (CSV, JSON, TXT, LOG) and reconciles incoming schema $S_i$ against expected contract $S_e$.
+- **$H(\cdot)$ (Self-Healing & Cleansing)**: Sanitizes null tokens, applies dynamic regex type-casting, imputes missing values, and deduplicates records.
+- **$Q(\cdot)$ (Quality Gate & Quarantine Validation)**: Evaluates validity function $V(r)$. Isolates irrecoverable records into the Dead-Letter Queue (DLQ).
+- **$G(\cdot)$ (Gold-Layer Aggregation)**: Groups cleansed records into executive summaries and segment distributions.
+- **$P(D)$**: Final published dataset stored with ACID guarantees in Delta Lake.
+
+---
+
+### 2. Algorithmic Breakdown & Logic Gates
+
+#### ① Schema Drift Detection & Reconciliation
+Let $S_e$ be the set of expected attributes and $S_i$ be the set of incoming attributes extracted from the source:
+$$D_s = S_e \ \Delta \ S_i = (S_e \setminus S_i) \cup (S_i \setminus S_e)$$
+
+- **Decision Rule**: If $D_s \neq \emptyset$, schema drift is detected.
+- **Self-Healing Action**: Missing expected attributes are automatically backfilled with typed null placeholders, and extraneous columns are preserved or realigned via `source_contracts.json`.
+
+#### ② Missing Value Imputation (Dynamic Batch Median)
+For numerical fields (e.g., patient/customer age), missing or corrupted tokens are imputed using the batch median $M$:
+$$M = \text{Median}(x_1, x_2, \dots, x_n)$$
+
+$$x_i' = \begin{cases} M, & \text{if } x_i \text{ is missing, null, or invalid} \\ x_i, & \text{otherwise} \end{cases}$$
+
+This prevents statistical distortion caused by arbitrary zeroes or default values while maintaining downstream analytical integrity.
+
+#### ③ Data Validation & Quarantine Decision
+Each record $r$ is evaluated by a deterministic predicate function $V(r) \in \{0, 1\}$:
+$$V(r) = \begin{cases} 1, & \text{if } r.\text{id} \neq \text{null} \ \land \ r.\text{age} \ge 0 \\ 0, & \text{otherwise} \end{cases}$$
+
+- If $V(r) = 1$: The record is certified valid and advances to the **Silver Layer**.
+- If $V(r) = 0$: The record fails the quality gate and is diverted to the **Quarantine DLQ** (`data/reject`) with an explicit reason tag (`missing_id`, `negative_age`).
+
+#### ④ Cryptographic Idempotency & Deduplication
+To guarantee that batch re-runs and duplicate files do not corrupt target tables, a SHA-256 fingerprint hash $H(r)$ is derived across primary attributes $(r.\text{id}, r.\text{name}, r.\text{age})$:
+$$H(r) = \text{SHA256}(r.\text{id} \parallel r.\text{name} \parallel r.\text{age})$$
+
+$$\text{If } H(r_i) = H(r_j) \implies \text{Drop duplicate } r_j$$
+
+#### ⑤ Data Quality (DQ) Score
+The batch health index is computed after each execution run:
+$$DQ = \left( \frac{N_v}{N_t} \right) \times 100$$
+Where $N_v$ is the count of valid records passing the gate, and $N_t$ is the total record volume received.
+
+#### ⑥ Rejection Rate (RR) & Autonomous Alerting
+The batch rejection proportion $RR$ determines automated alert dispatch:
+$$RR = \frac{N_r}{N_t}$$
+
+$$\text{Trigger Webhook Alert} \iff RR > 0.15 \ (15\%)$$
+
+When $RR > 0.15$, an automated webhook alert (Slack/Discord/Teams) is fired, and a high-severity alert is logged to metadata.
+
+---
+
+### 3. The "Illusion of Purity": Layering & Quality Gates
+
+Modern enterprise pipelines often operate under the false assumption that upstream data arrives in a pristine format. In reality, data purity is an **illusion** that must be rigorously enforced through defensive checkpoints:
+
+<p align="center">
+  <img src="docs/images/quality_gates_layering.jpg" alt="The Illusion of Purity: Layering and Quality Gates" width="85%" />
+</p>
+
+- **Bronze Layer (Raw Ingestion)**: Ingests unfiltered, raw multi-source payloads directly. No assumptions of cleanliness are made.
+- **Quality Gate 1 (Structural & Syntax Enforcement)**: Enforces contract matching, sanitizes tokenized null strings (`"null"`, `"N/A"`, `"NaN"`), repairs schema drift, and routes fatal anomalies to Quarantine.
+- **Silver Layer (Cleaned & Healed)**: Contains validated, deduplicated, and imputed records ready for operational query workloads.
+- **Quality Gate 2 (Business & Relational Integrity)**: Validates segment domain ranges, statistical consistency, and business logic before promoting datasets to Gold.
+- **Gold Layer (Curated Aggregates)**: Trusted business-facing datasets (`customer_segments`, `executive_summary`) feeding BI dashboards, machine learning pipelines, and LLM agent contexts.
+
+---
+
+### 4. Key Variables & Mathematical Abbreviations
+
+| Notation / Abbreviation | Full Name | Description |
+| :--- | :--- | :--- |
+| **$D$** | Raw Input Dataset | Heterogeneous inbound file batch in `data/raw`. |
+| **$S_e$** | Expected Schema | Target schema defined in `source_contracts.json`. |
+| **$S_i$** | Incoming Schema | Dynamically inferred schema from source file. |
+| **$D_s$** | Schema Difference / Drift | Symmetric set difference between expected and incoming schemas ($S_e \ \Delta \ S_i$). |
+| **$I(\cdot)$** | Ingestion Operator | Maps file extensions to parsers and extracts structured columns. |
+| **$H(\cdot)$** | Self-Healing Operator | Null token cleaning, regex integer extraction, and median imputation. |
+| **$Q(\cdot)$** | Quality Gate Operator | Filters records based on validity predicate $V(r)$. |
+| **$G(\cdot)$** | Gold Aggregation Operator | Derives business KPIs, age groups, and segment distributions. |
+| **$P(D)$** | Processed Dataset Output | Final certified Medallion Lakehouse dataset. |
+| **$M$** | Median Imputation Value | Approximate median of valid numerical values calculated dynamically per batch. |
+| **$V(r)$** | Validation Predicate Function | Binary indicator function evaluating record validity ($1 = \text{valid}, 0 = \text{reject}$). |
+| **$H(r)$** | Hash Fingerprint | SHA-256 / MD5 digest used for deduplication and file idempotency. |
+| **$N_v$** | Valid Record Count | Volume of clean records advancing to the Silver layer. |
+| **$N_r$** | Rejected Record Count | Volume of anomalous records routed to Quarantine. |
+| **$N_t$** | Total Record Count | Total records ingested across the batch ($N_t = N_v + N_r$). |
+| **$DQ$** | Data Quality Index (%) | Percentage ratio of valid records relative to total records. |
+| **$RR$** | Rejection Rate Ratio | Fraction of records quarantined ($N_r / N_t$). Triggers alert if $> 0.15$. |
+| **DLQ** | Dead-Letter Queue | Quarantined storage tier (`data/reject`) holding malformed records with root-cause diagnostic tags. |
+| **MCP** | Model Context Protocol | Open standard for exposing pipeline tools and health context to AI models. |
 
 ---
 
