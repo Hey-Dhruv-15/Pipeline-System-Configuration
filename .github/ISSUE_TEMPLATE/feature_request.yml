@@ -1,0 +1,35 @@
+name: ✨ Feature Request
+description: Suggest an idea or propose a new self-healing rule, connector, or feature
+title: "[FEAT]: "
+labels: ["enhancement", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        We love hearing new ideas for improving pipeline autonomy, self-healing transformers, and agent integrations!
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem Statement / Motivation
+      description: Is your feature request related to a problem? Please describe it clearly.
+      placeholder: e.g. "When ingesting malformed phone numbers, the pipeline rejects them rather than auto-formatting..."
+    validations:
+      required: true
+  - type: textarea
+    id: proposed_solution
+    attributes:
+      label: Proposed Solution / Architectural Design
+      description: Describe the solution you'd like to see implemented.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives Considered
+      description: A clear description of any alternative solutions or workarounds you have considered.
+  - type: checkboxes
+    id: contribution
+    attributes:
+      label: Contribution
+      options:
+        - label: I would be interested in submitting a Pull Request for this feature!
