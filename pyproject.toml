@@ -48,7 +48,7 @@ dependencies = [
     "plotly==6.0.1",
     "pandas==2.2.3",
     "pyarrow==19.0.1",
-    "mcp==1.9.4"
+    "mcp==2.3.0"
 ]
 
 [project.optional-dependencies]
