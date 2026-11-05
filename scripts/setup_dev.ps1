@@ -50,3 +50,4 @@ Write-Host "  2. Install dependencies:           pip install -r requirements.txt
 Write-Host "  3. Run test suite:                 pytest tests/ -v"
 Write-Host "  4. Start local Docker stack:       docker compose up -d"
 Write-Host ""
+

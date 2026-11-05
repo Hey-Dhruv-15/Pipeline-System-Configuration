@@ -115,7 +115,7 @@ Start the full stack with Airflow, PostgreSQL, Streamlit, FastMCP, and the conti
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/laasyaarun18-gif/Pipeline-System.git
+git clone https://github.com/Hey-Dhruv-15/Pipeline-System-Configuration.git
 cd Pipeline-System
 
 # 2. Copy environment template
@@ -317,7 +317,7 @@ We welcome community contributions! Here are areas planned for upcoming releases
 - [ ] **OpenTelemetry Integration**: Export distributed traces and Spark metrics to Prometheus / Grafana.
 - [ ] **Great Expectations Compatibility**: Export self-healing execution logs into Great Expectations data docs.
 
-Check out our [Good First Issues](https://github.com/laasyaarun18-gif/Pipeline-System/labels/good%20first%20issue) to get started!
+Check out our [Good First Issues](https://github.com/Hey-Dhruv-15/Pipeline-System-Configuration/labels/good%20first%20issue) to get started!
 
 ---
 
@@ -339,4 +339,4 @@ Distributed under the **Apache License, Version 2.0**. See [`LICENSE`](LICENSE) 
 
 - **Maintainer**: Dhruva S
 - **Email**: [dhruvkuruvilla@gmail.com](mailto:dhruvkuruvilla@gmail.com)
-- **Repository**: [https://github.com/laasyaarun18-gif/Pipeline-System](https://github.com/laasyaarun18-gif/Pipeline-System)
+- **Repository**: [https://github.com/Hey-Dhruv-15/Pipeline-System-Configuration](https://github.com/Hey-Dhruv-15/Pipeline-System-Configuration)

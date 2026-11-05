@@ -36,3 +36,4 @@ def test_custom_data_root_override(tmp_path, monkeypatch):
     assert config.silver_dir == custom_root / "silver"
     assert config.gold_dir == custom_root / "gold"
     assert config.data_format == "delta"
+

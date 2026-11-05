@@ -1,8 +1,9 @@
 blank_issues_enabled: false
 contact_links:
   - name: Community Discussions & Questions
-    url: https://github.com/laasyaarun18-gif/Pipeline-System/discussions
+    url: https://github.com/Hey-Dhruv-15/Pipeline-System-Configuration/discussions
     about: Ask questions, share ideas, and connect with other data engineers and contributors.
   - name: Security Disclosures
-    url: https://github.com/laasyaarun18-gif/Pipeline-System/security/policy
+    url: https://github.com/Hey-Dhruv-15/Pipeline-System-Configuration/security/policy
     about: Privately report potential security vulnerabilities.
+

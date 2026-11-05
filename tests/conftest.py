@@ -12,3 +12,4 @@ def demo_data_dir(project_root: Path) -> Path:
 @pytest.fixture
 def contracts_path(project_root: Path) -> Path:
     return project_root / "src" / "pipeline" / "source_contracts.json"
+

@@ -38,3 +38,4 @@ echo "  2. Install dependencies:           pip install -r requirements.txt -r re
 echo "  3. Run test suite:                 pytest tests/ -v"
 echo "  4. Start local Docker stack:       docker compose up -d"
 echo ""
+

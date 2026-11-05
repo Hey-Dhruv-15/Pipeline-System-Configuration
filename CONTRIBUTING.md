@@ -35,7 +35,7 @@ All contributors and maintainers are expected to follow our [Code of Conduct](CO
 
 ### Reporting Bugs
 If you encounter a bug, broken parser, or unexpected pipeline failure:
-1. Search the [GitHub Issues](https://github.com/laasyaarun18-gif/Pipeline-System/issues) to ensure it hasn't already been reported.
+1. Search the [GitHub Issues](https://github.com/Hey-Dhruv-15/Pipeline-System-Configuration/issues) to ensure it hasn't already been reported.
 2. If new, open an issue using the **Bug Report Template**.
 3. Include sample input files (sanitized, without PII), log outputs, and system details.
 
@@ -72,8 +72,8 @@ To support new file extensions or schemas:
 Clone the repository and set up a virtual environment:
 
 ```bash
-git clone https://github.com/laasyaarun18-gif/Pipeline-System.git
-cd Pipeline-System
+git clone https://github.com/Hey-Dhruv-15/Pipeline-System-Configuration.git
+cd Pipeline-System-Configuration
 
 # Create virtual environment
 python -m venv .venv
@@ -191,7 +191,8 @@ docker compose config
 
 ## Community & Recognition
 
-- **First-time contributor?** Look for issues labeled [`good first issue`](https://github.com/laasyaarun18-gif/Pipeline-System/labels/good%20first%20issue).
+- **First-time contributor?** Look for issues labeled [`good first issue`](https://github.com/Hey-Dhruv-15/Pipeline-System-Configuration/labels/good%20first%20issue).
 - All contributors will be listed in our project `README.md` and release notes!
 
 Thank you for helping make data pipelines autonomous, self-healing, and rock-solid!
+

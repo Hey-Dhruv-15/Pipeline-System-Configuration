@@ -21,3 +21,4 @@ def test_demo_data_directory_files(demo_data_dir: Path):
         with filepath.open("r", encoding="utf-8") as f:
             data = json.load(f)
             assert isinstance(data, list), f"Expected list in {filename}"
+

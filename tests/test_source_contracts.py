@@ -25,3 +25,4 @@ def test_source_contracts_structure(contracts_path: Path):
         assert "age_aliases" in spec
         assert isinstance(spec["id_aliases"], list)
         assert len(spec["id_aliases"]) > 0
+

@@ -30,3 +30,4 @@ The project team takes the security of this self-healing pipeline system serious
 - **Patch & Advisory**: Once verified and fixed, a patched release and public advisory will be published with credit to the reporter (unless anonymity is requested).
 
 Thank you for helping keep our software secure!
+

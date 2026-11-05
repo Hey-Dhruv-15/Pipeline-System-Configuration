@@ -32,3 +32,4 @@ def test_null_token_filtering_logic():
             cleaned.append(trimmed)
 
     assert cleaned == [None, None, None, None, None, "Valid Name", None]
+

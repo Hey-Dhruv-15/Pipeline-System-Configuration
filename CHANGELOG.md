@@ -39,3 +39,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - GitHub Actions CI pipeline, CodeQL security scanning, Dependabot config.
   - Issue templates, PR template, Contributor Covenant Code of Conduct, Apache 2.0 license.
   - Unit test suite for configurations, source contracts, quality logic, and MCP tools.
+

@@ -52,3 +52,4 @@ run-dashboard:
 
 run-mcp:
 	python -m src.mcp_server.server
+

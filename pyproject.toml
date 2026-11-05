@@ -62,10 +62,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/laasyaarun18-gif/Pipeline-System"
-Documentation = "https://github.com/laasyaarun18-gif/Pipeline-System#readme"
-Issues = "https://github.com/laasyaarun18-gif/Pipeline-System/issues"
-Changelog = "https://github.com/laasyaarun18-gif/Pipeline-System/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/Hey-Dhruv-15/Pipeline-System-Configuration"
+Documentation = "https://github.com/Hey-Dhruv-15/Pipeline-System-Configuration#readme"
+Issues = "https://github.com/Hey-Dhruv-15/Pipeline-System-Configuration/issues"
+Changelog = "https://github.com/Hey-Dhruv-15/Pipeline-System-Configuration/blob/main/CHANGELOG.md"
 
 [tool.pytest.ini_options]
 minversion = "7.0"
@@ -87,3 +87,4 @@ target-version = "py310"
 [tool.ruff.lint]
 select = ["E", "F", "W", "I", "UP"]
 ignore = ["E501"]
+
