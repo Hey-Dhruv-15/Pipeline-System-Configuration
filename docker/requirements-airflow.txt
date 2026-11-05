@@ -1,4 +1,4 @@
 pyspark==3.5.2
-delta-spark==3.2.0
+delta-spark==4.4.1
 pandas==2.2.3
 pyarrow==19.0.1
