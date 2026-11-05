@@ -1,0 +1,1 @@
+Hospital intake note :: patient 583 named Anaya Das age 8 entered WARD-A and is marked critical for cbc review at 2026-03-14T10:22:43Z.

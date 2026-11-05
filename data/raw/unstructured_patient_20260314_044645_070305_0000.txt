@@ -1,0 +1,1 @@
+captured_at 2026-03-14T04:46:45.070224Z, patient_id:464, extra=t10Ss4lfBj2UdUHvp8, name=', status transfer, age=93, unit=RAD

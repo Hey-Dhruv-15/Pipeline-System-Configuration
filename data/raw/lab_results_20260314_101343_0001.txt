@@ -1,0 +1,1 @@
+Hospital intake note :: patient 501 named Meera Khan age 19 entered ER and is marked critical for lactate review at 2026-03-14T10:13:43Z.

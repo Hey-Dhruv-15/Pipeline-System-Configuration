@@ -1,0 +1,1 @@
+Hospital intake note :: patient 683 named Anaya Gupta age 55 entered ICU and is marked discharged for creatinine review at 2026-03-14T10:33:44Z.

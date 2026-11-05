@@ -1,0 +1,29 @@
+FROM node:20-alpine AS frontend-builder
+
+WORKDIR /frontend
+
+COPY frontend/package.json ./package.json
+RUN npm install
+
+COPY frontend ./frontend
+WORKDIR /frontend/frontend
+RUN npm run build
+
+FROM python:3.11-slim
+
+ENV PYTHONDONTWRITEBYTECODE=1
+ENV PYTHONUNBUFFERED=1
+ENV PYTHONPATH=/app
+
+WORKDIR /app
+
+COPY docker/requirements-dashboard.txt /tmp/requirements-dashboard.txt
+RUN pip install --no-cache-dir -r /tmp/requirements-dashboard.txt
+
+COPY src /app/src
+COPY demo_data /app/demo_data
+COPY --from=frontend-builder /frontend/frontend-dist /app/frontend-dist
+
+EXPOSE 8501
+
+CMD ["uvicorn", "src.dashboard_api.server:app", "--host", "0.0.0.0", "--port", "8501"]

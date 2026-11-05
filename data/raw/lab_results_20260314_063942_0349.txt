@@ -1,0 +1,1 @@
+Hospital intake note :: patient 849 named Vihaan Patel age 70 entered WARD-A and is marked awaiting_review for lactate review at 2026-03-14T06:39:42Z.

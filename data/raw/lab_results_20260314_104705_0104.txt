@@ -1,0 +1,1 @@
+Hospital intake note :: patient 604 named Rohan Patel age 85 entered WARD-B and is marked stable for glucose review at 2026-03-14T10:47:05Z.

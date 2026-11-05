@@ -1,0 +1,1 @@
+captured_at 2026-03-14T04:41:40.956719Z, patient_id:852!, age=15, name='Anaya Gupta, unit=LAB, status , extra=SEVtDHO9BoWujGT9oe

@@ -1,0 +1,1 @@
+Hospital intake note :: patient 561 named Diya Singh age 13 entered ER and is marked critical for cbc review at 2026-03-14T04:27:53Z.

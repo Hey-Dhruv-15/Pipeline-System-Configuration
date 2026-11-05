@@ -1,0 +1,88 @@
+{
+  "page": {
+    "title": "Lakehouse Control Room",
+    "icon": "LC",
+    "layout": "wide",
+    "sidebar_state": "expanded"
+  },
+  "theme": {
+    "font_family": "'Space Grotesk', sans-serif",
+    "mono_family": "'IBM Plex Mono', monospace",
+    "background": "#f6efe4",
+    "background_end": "#e7dbc0",
+    "ink": "#102326",
+    "muted": "#5d6d69",
+    "accent": "#f25f4c",
+    "success": "#1f8a70",
+    "warning": "#d99800",
+    "info": "#355c7d",
+    "panel": "rgba(248, 244, 234, 0.82)",
+    "hero_start": "rgba(16, 35, 38, 0.98)",
+    "hero_end": "rgba(28, 60, 64, 0.96)",
+    "sidebar_start": "#102326",
+    "sidebar_end": "#18373b"
+  },
+  "refresh": {
+    "min_seconds": 5,
+    "max_seconds": 120,
+    "step_seconds": 5,
+    "default_seconds": 30
+  },
+  "datasets": {
+    "metrics": {
+      "title": "Run Metrics",
+      "preferred_time_columns": ["recorded_at"],
+      "preferred_numeric_columns": ["records_processed", "rejected_records", "runtime_seconds", "processed_files"]
+    },
+    "run_status": {
+      "title": "Run Status",
+      "preferred_time_columns": ["recorded_at"],
+      "preferred_dimension_columns": ["status", "run_id", "message"]
+    },
+    "alerts": {
+      "title": "Alerts",
+      "preferred_time_columns": ["recorded_at"],
+      "preferred_dimension_columns": ["severity", "alert_type", "delivery_state", "message"]
+    },
+    "parser_runs": {
+      "title": "Parser Runs",
+      "preferred_time_columns": ["recorded_at"],
+      "preferred_dimension_columns": ["source_type", "source_extension", "parser_version", "run_id"],
+      "preferred_numeric_columns": ["records_seen", "missing_id_records", "missing_age_records", "missing_name_records"]
+    },
+    "quality_events": {
+      "title": "Quality Events",
+      "preferred_time_columns": ["recorded_at"],
+      "preferred_dimension_columns": ["event_type", "details", "run_id"],
+      "preferred_numeric_columns": ["record_count"]
+    },
+    "lineage": {
+      "title": "Lineage",
+      "preferred_time_columns": ["recorded_at"],
+      "preferred_dimension_columns": ["source_stage", "target_stage", "dataset", "run_id"]
+    },
+    "processed_files": {
+      "title": "Processed Files",
+      "preferred_time_columns": ["processed_at"],
+      "preferred_dimension_columns": ["file_name", "file_key", "run_id"]
+    },
+    "gold_summary": {
+      "title": "Executive Summary",
+      "preferred_time_columns": ["processed_time"],
+      "preferred_dimension_columns": ["headline", "business_message", "recommended_action", "run_id"],
+      "preferred_numeric_columns": ["records_processed", "rejected_records", "acceptance_rate"]
+    },
+    "gold_segments": {
+      "title": "Customer Segments",
+      "preferred_time_columns": ["processed_time"],
+      "preferred_dimension_columns": ["customer_segment", "business_story", "run_id"],
+      "preferred_numeric_columns": ["distinct_customers", "customer_count", "share_of_customers", "average_age"]
+    },
+    "gold_age": {
+      "title": "Gold Aggregates"
+    },
+    "rejects": {
+      "title": "Rejected Records"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Hospital intake note :: patient 601 named Sara Khan age 75 entered WARD-A and is marked critical for cbc review at 2026-03-14T10:46:45Z.

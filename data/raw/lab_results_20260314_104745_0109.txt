@@ -1,0 +1,1 @@
+Hospital intake note :: patient 609 named Ishaan Sharma age 48 entered RAD and is marked critical for creatinine review at 2026-03-14T10:47:45Z.

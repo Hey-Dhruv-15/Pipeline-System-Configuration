@@ -1,0 +1,1 @@
+Hospital intake note :: patient 670 named Sara Patel age 32 entered ICU and is marked critical for cbc review at 2026-03-14T10:32:24Z.

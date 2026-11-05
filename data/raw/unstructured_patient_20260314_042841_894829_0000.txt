@@ -1,0 +1,1 @@
+age=68, unit=ICU, captured_at 2026-03-14T04:28:41.894774Z, status observation, name='Diya Das, extra=blGLyzpCRkADK12s12, patient_id:966

@@ -1,0 +1,1 @@
+Hospital intake note :: patient 666 named Ishaan Gupta age 88 entered ICU and is marked critical for cbc review at 2026-03-14T10:54:06Z.

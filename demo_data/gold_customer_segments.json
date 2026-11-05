@@ -1,0 +1,42 @@
+[
+  {
+    "customer_segment": "prime_lifetime_value",
+    "customer_count": 5100,
+    "distinct_customers": 5100,
+    "average_age": 51.8,
+    "share_of_customers": 33.7,
+    "business_story": "Highest retention and upsell potential.",
+    "run_id": "run_cf61ad3a19",
+    "processed_time": "2026-03-13T11:05:31"
+  },
+  {
+    "customer_segment": "growth_households",
+    "customer_count": 4380,
+    "distinct_customers": 4380,
+    "average_age": 36.2,
+    "share_of_customers": 29.0,
+    "business_story": "Strong cross-sell candidate for bundles and subscriptions.",
+    "run_id": "run_cf61ad3a19",
+    "processed_time": "2026-03-13T11:05:31"
+  },
+  {
+    "customer_segment": "emerging_adults",
+    "customer_count": 3310,
+    "distinct_customers": 3310,
+    "average_age": 24.7,
+    "share_of_customers": 21.9,
+    "business_story": "Acquisition segment with high future LTV upside.",
+    "run_id": "run_cf61ad3a19",
+    "processed_time": "2026-03-13T11:05:31"
+  },
+  {
+    "customer_segment": "legacy_loyalists",
+    "customer_count": 2320,
+    "distinct_customers": 2320,
+    "average_age": 66.4,
+    "share_of_customers": 15.4,
+    "business_story": "Supportive segment for coverage and market mix.",
+    "run_id": "run_cf61ad3a19",
+    "processed_time": "2026-03-13T11:05:31"
+  }
+]

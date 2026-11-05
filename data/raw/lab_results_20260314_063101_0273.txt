@@ -1,0 +1,1 @@
+Hospital intake note :: patient 773 named Ishaan Patel age 7 entered ER and is marked critical for troponin review at 2026-03-14T06:31:01Z.

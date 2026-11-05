@@ -1,0 +1,1 @@
+status observation, name='Diya Gupta, age=64, patient_id:692, captured_at 2026-03-14T04:28:53.772698Z, unit=ICU, extra=nt3Q1VKIOaBnrqi0qq

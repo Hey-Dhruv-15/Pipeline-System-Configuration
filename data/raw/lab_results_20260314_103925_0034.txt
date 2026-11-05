@@ -1,0 +1,1 @@
+Hospital intake note :: patient 534 named Anaya Reddy age 69 entered WARD-A and is marked critical for cbc review at 2026-03-14T10:39:25Z.

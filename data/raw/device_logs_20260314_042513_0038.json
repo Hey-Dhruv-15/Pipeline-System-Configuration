@@ -1,0 +1,1 @@
+{"event_type": "device_stream", "patient": {"id": "538", "name": "Kabir Sharma", "age": 49}, "device": {"unit": "WARD-A", "status": "critical"}, "recorded_at": "2026-03-14T04:25:13Z"}

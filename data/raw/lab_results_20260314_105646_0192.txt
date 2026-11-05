@@ -1,0 +1,1 @@
+Hospital intake note :: patient 692 named Sara Menon age 26 entered LAB and is marked critical for cbc review at 2026-03-14T10:56:46Z.

@@ -1,0 +1,1 @@
+extra=lcuk6IuHEPskagzQM9, age=43, unit=LAB, captured_at 2026-03-14T05:01:11.539024Z, status discharged, patient_id:797, name='Meera Reddy

@@ -1,0 +1,1 @@
+age=39, captured_at 2026-03-14T04:35:24.206226Z, patient_id:896, name='Anaya Khan, status , extra=zAi07DsN36SS6SzSvJ, unit=ER

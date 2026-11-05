@@ -1,0 +1,1 @@
+unit=WARD-3, captured_at 2026-03-14T04:47:39.390605Z, age=, status transfer, extra=dF7vm919mxj78l5tDO, name='Diya Iyer, patient_id:

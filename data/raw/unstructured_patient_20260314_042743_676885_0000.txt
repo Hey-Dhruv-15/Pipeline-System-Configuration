@@ -1,0 +1,1 @@
+status discharged, patient_id:348, unit=OPD, captured_at 2026-03-14T04:27:43.676753Z, extra=E79vi3xVtVHxh9AFaJ, age=2, name='Rohan Sharma

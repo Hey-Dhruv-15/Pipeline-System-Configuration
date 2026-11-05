@@ -1,0 +1,1 @@
+unit=WARD-3, extra=AqSYUxOduopxiFaMYa, captured_at 2026-03-14T04:27:05.326381Z, name='Nisha Khan, age=87, status admitted, patient_id:897

@@ -1,0 +1,1 @@
+Hospital intake note :: patient 764 named Meera Gupta age 8 entered WARD-B and is marked critical for creatinine review at 2026-03-14T11:04:46Z.

@@ -1,0 +1,1 @@
+{"event_type": "device_stream", "patient": {"id": "610", "name": "Anaya Menon", "age": 79}, "device": {"unit": "WARD-A", "status": "critical"}, "recorded_at": "2026-03-14T06:13:00Z"}

@@ -1,0 +1,1 @@
+Hospital intake note :: patient 610 named Sara Verma age 2 entered WARD-B and is marked critical for troponin review at 2026-03-14T10:25:43Z.

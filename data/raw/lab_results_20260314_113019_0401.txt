@@ -1,0 +1,1 @@
+Hospital intake note :: patient 901 named Aarav Menon age 86 entered WARD-A and is marked discharged for glucose review at 2026-03-14T11:30:19Z.

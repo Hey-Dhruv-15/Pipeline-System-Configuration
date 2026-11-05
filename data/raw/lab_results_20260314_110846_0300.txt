@@ -1,0 +1,1 @@
+Hospital intake note :: patient 800 named Vihaan Patel age 40 entered LAB and is marked observation for cbc review at 2026-03-14T11:08:46Z.

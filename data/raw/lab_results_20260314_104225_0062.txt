@@ -1,0 +1,1 @@
+Hospital intake note :: patient 562 named Aarav Khan age 16 entered ER and is marked critical for glucose review at 2026-03-14T10:42:25Z.

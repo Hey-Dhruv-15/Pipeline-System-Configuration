@@ -1,0 +1,1 @@
+Hospital intake note :: patient 688 named Sara Reddy age 15 entered ICU and is marked discharged for cbc review at 2026-03-14T10:56:26Z.

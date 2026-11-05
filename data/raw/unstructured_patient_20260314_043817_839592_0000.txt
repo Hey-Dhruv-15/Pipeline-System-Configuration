@@ -1,0 +1,1 @@
+captured_at 2026-03-14T04:38:17.839531Z, status transfer, extra=habzjcoa33VEsfJb3J, patient_id:728, name='Nisha Reddy, unit=ICU, age=17

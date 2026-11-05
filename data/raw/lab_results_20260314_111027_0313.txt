@@ -1,0 +1,1 @@
+Hospital intake note :: patient 813 named Rohan Khan age 35 entered WARD-B and is marked discharged for cbc review at 2026-03-14T11:10:27Z.

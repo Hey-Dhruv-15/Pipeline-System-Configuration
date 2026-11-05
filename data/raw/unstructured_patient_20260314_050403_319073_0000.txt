@@ -1,0 +1,1 @@
+captured_at 2026-03-14T05:04:03.319027Z, unit=OPD, patient_id:127, status admitted, age=91, name='Meera Sharma, extra=K8pwLl4NBR8J5Yk9AU

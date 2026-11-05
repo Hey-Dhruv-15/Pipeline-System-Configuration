@@ -1,0 +1,12 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.git
+.venv
+venv
+data/bronze/*
+data/silver/*
+data/gold/*
+data/reject/*
+data/metadata/*

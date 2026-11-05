@@ -1,0 +1,1 @@
+captured_at 2026-03-14T05:06:57.881312Z, extra=yDxNSHTfYCgV8l4zkO, age=64, name=', status observation, patient_id:704, unit=WARD-3

@@ -1,0 +1,1 @@
+status observation, extra=Gsf9btwjTyWNTgWTC1, patient_id:986, unit=ICU, captured_at 2026-03-14T05:02:07.428100Z, age=87??, name='Anaya Singh 

@@ -1,0 +1,1 @@
+captured_at 2026-03-14T05:02:38.765545Z, age=21, extra=AC3Mx69IGqJqNa5JzZ, unit=OPD, status observation, name='Diya Gupta, patient_id:370

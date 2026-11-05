@@ -1,0 +1,1 @@
+patient_id:532, status admitted, age=77, captured_at 2026-03-14T05:01:43.035298Z, unit=OPD, extra=jtgyd374V420BJcENj, name='Anaya Reddy

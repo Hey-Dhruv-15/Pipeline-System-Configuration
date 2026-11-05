@@ -1,0 +1,29 @@
+[
+  {
+    "run_id": "run_a92ce41e1d",
+    "run_status": "SUCCESS",
+    "records_processed": 13840,
+    "rejected_records": 184,
+    "processed_files": 3,
+    "runtime_seconds": 24.6,
+    "recorded_at": "2026-03-13T09:42:00"
+  },
+  {
+    "run_id": "run_b14de77fd2",
+    "run_status": "SUCCESS",
+    "records_processed": 14220,
+    "rejected_records": 128,
+    "processed_files": 2,
+    "runtime_seconds": 22.1,
+    "recorded_at": "2026-03-13T10:15:00"
+  },
+  {
+    "run_id": "run_cf61ad3a19",
+    "run_status": "SUCCESS",
+    "records_processed": 15110,
+    "rejected_records": 96,
+    "processed_files": 4,
+    "runtime_seconds": 21.4,
+    "recorded_at": "2026-03-13T11:05:00"
+  }
+]

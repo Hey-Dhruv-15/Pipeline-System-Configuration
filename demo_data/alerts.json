@@ -1,0 +1,26 @@
+[
+  {
+    "run_id": "run_a92ce41e1d",
+    "alert_type": "pipeline_success",
+    "severity": "info",
+    "message": "Pipeline run completed successfully with 13840 valid rows and 184 rejects.",
+    "delivery_state": "not_configured",
+    "recorded_at": "2026-03-13T09:42:10"
+  },
+  {
+    "run_id": "run_b14de77fd2",
+    "alert_type": "high_reject_rate",
+    "severity": "warning",
+    "message": "Reject rate spiked above the configured threshold. Review source data quality before the next load.",
+    "delivery_state": "not_configured",
+    "recorded_at": "2026-03-13T10:15:14"
+  },
+  {
+    "run_id": "run_cf61ad3a19",
+    "alert_type": "pipeline_success",
+    "severity": "info",
+    "message": "Pipeline run completed successfully with 15110 valid rows and 96 rejects.",
+    "delivery_state": "not_configured",
+    "recorded_at": "2026-03-13T11:05:45"
+  }
+]

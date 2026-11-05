@@ -1,0 +1,1 @@
+extra=ZG1REauY5pTj3Gi3WH, captured_at 2026-03-14T05:36:04.360597Z, age=27, unit=WARD-3, status discharged, patient_id:734, name='Aarav Singh

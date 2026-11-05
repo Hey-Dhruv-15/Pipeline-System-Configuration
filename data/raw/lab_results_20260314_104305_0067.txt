@@ -1,0 +1,1 @@
+Hospital intake note :: patient 567 named Aarav Patel age 32 entered LAB and is marked observation for glucose review at 2026-03-14T10:43:05Z.

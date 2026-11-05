@@ -1,0 +1,1 @@
+unit=ICU, age=34, status discharged, name='Arjun Reddy, patient_id:560, extra=yHcQvEM93ETxBV63O4, captured_at 2026-03-14T04:51:11.568278Z

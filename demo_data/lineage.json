@@ -1,0 +1,30 @@
+[
+  {
+    "dataset": "raw_files",
+    "source_stage": "landing",
+    "target_stage": "bronze",
+    "run_id": "run_cf61ad3a19",
+    "recorded_at": "2026-03-13T11:05:00"
+  },
+  {
+    "dataset": "customer_records",
+    "source_stage": "bronze",
+    "target_stage": "silver",
+    "run_id": "run_cf61ad3a19",
+    "recorded_at": "2026-03-13T11:05:20"
+  },
+  {
+    "dataset": "customer_segment_story",
+    "source_stage": "silver",
+    "target_stage": "gold",
+    "run_id": "run_cf61ad3a19",
+    "recorded_at": "2026-03-13T11:05:34"
+  },
+  {
+    "dataset": "executive_summary",
+    "source_stage": "silver",
+    "target_stage": "gold",
+    "run_id": "run_cf61ad3a19",
+    "recorded_at": "2026-03-13T11:05:36"
+  }
+]

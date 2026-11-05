@@ -1,0 +1,1 @@
+captured_at 2026-03-14T06:02:17.433512Z, extra=UwWu9Edtn7o4ISRCpj, unit=WARD-3, patient_id:, status , name='Diya Patel, age=76

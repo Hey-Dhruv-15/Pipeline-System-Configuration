@@ -1,0 +1,23 @@
+[
+  {
+    "age": 24,
+    "customer_count": 1920,
+    "distinct_customer_ids": 1920,
+    "run_id": "run_cf61ad3a19",
+    "processed_time": "2026-03-13T11:05:29"
+  },
+  {
+    "age": 36,
+    "customer_count": 2430,
+    "distinct_customer_ids": 2430,
+    "run_id": "run_cf61ad3a19",
+    "processed_time": "2026-03-13T11:05:29"
+  },
+  {
+    "age": 52,
+    "customer_count": 2810,
+    "distinct_customer_ids": 2810,
+    "run_id": "run_cf61ad3a19",
+    "processed_time": "2026-03-13T11:05:29"
+  }
+]

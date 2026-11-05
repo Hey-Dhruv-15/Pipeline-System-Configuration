@@ -1,0 +1,20 @@
+[
+  {
+    "run_id": "run_a92ce41e1d",
+    "status": "SUCCESS",
+    "message": "Pipeline completed successfully",
+    "recorded_at": "2026-03-13T09:42:00"
+  },
+  {
+    "run_id": "run_b14de77fd2",
+    "status": "SUCCESS",
+    "message": "Pipeline completed successfully",
+    "recorded_at": "2026-03-13T10:15:00"
+  },
+  {
+    "run_id": "run_cf61ad3a19",
+    "status": "SUCCESS",
+    "message": "Pipeline completed successfully",
+    "recorded_at": "2026-03-13T11:05:00"
+  }
+]

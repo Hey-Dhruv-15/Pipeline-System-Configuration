@@ -1,0 +1,1 @@
+age=43, patient_id:598, extra=czk8n4axdWlvj7ieu1, status transfer, unit=WARD-3, name='Ishaan Sharma, captured_at 2026-03-14T05:04:20.745452Z

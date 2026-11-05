@@ -1,0 +1,16 @@
+[
+  {
+    "id": null,
+    "name": "unknown",
+    "age": 18,
+    "run_id": "run_cf61ad3a19",
+    "reject_reason": "missing_id"
+  },
+  {
+    "id": 4302,
+    "name": "Ana",
+    "age": -2,
+    "run_id": "run_cf61ad3a19",
+    "reject_reason": "negative_age"
+  }
+]

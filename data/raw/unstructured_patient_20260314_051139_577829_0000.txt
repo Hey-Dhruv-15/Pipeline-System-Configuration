@@ -1,0 +1,1 @@
+extra=GSq8iqPUx0KO1mrBjd, captured_at 2026-03-14T05:11:39.577736Z, status discharged, patient_id:832, name='Anaya Das, age=18, unit=ER

@@ -1,0 +1,26 @@
+[
+  {
+    "file_name": "customer_batch_01.csv",
+    "file_key": "customer_batch_01.csv:81244:1710312200",
+    "file_size": 81244,
+    "file_modified_at": "1710312200",
+    "run_id": "run_a92ce41e1d",
+    "processed_at": "2026-03-13T09:42:00"
+  },
+  {
+    "file_name": "customer_batch_02.csv",
+    "file_key": "customer_batch_02.csv:79984:1710314300",
+    "file_size": 79984,
+    "file_modified_at": "1710314300",
+    "run_id": "run_b14de77fd2",
+    "processed_at": "2026-03-13T10:15:00"
+  },
+  {
+    "file_name": "customer_batch_03.csv",
+    "file_key": "customer_batch_03.csv:90551:1710317100",
+    "file_size": 90551,
+    "file_modified_at": "1710317100",
+    "run_id": "run_cf61ad3a19",
+    "processed_at": "2026-03-13T11:05:00"
+  }
+]

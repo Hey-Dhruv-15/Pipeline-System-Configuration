@@ -1,0 +1,1 @@
+patient_id:684, status discharged, unit=RAD, extra=hwASyTZNnUlAKHbv2B, captured_at 2026-03-14T04:35:13.165617Z, age=61, name='Anaya Patel

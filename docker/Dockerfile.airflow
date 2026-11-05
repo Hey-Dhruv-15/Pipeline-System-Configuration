@@ -1,0 +1,21 @@
+FROM apache/airflow:2.10.0-python3.11
+
+ENV PYTHONPATH=/opt/airflow
+ENV PIP_DEFAULT_TIMEOUT=600
+
+USER root
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends default-jre-headless \
+    && rm -rf /var/lib/apt/lists/*
+USER airflow
+
+COPY docker/requirements-airflow.txt /tmp/requirements-airflow.txt
+RUN pip install --no-cache-dir --default-timeout=600 -r /tmp/requirements-airflow.txt
+
+WORKDIR /opt/airflow
+
+COPY dags /opt/airflow/dags
+COPY src /opt/airflow/src
+COPY data /opt/airflow/data
+COPY demo_data /opt/airflow/demo_data
+COPY samples /opt/airflow/samples

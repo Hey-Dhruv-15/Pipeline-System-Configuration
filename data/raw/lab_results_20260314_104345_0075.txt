@@ -1,0 +1,1 @@
+Hospital intake note :: patient 575 named Meera Das age 60 entered WARD-A and is marked discharged for cbc review at 2026-03-14T10:43:45Z.

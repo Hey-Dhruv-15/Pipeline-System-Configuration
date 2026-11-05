@@ -1,0 +1,1 @@
+Hospital intake note :: patient 588 named Aarav Sharma age 10 entered ICU and is marked awaiting_review for lactate review at 2026-03-14T10:45:25Z.

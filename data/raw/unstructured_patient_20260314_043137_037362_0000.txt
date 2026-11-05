@@ -1,0 +1,1 @@
+captured_at 2026-03-14T04:31:37.037306Z, age=66, name='Diya Khan, extra=klj5EjGRFulT59ye3N, unit=RAD, patient_id:245, status unknown

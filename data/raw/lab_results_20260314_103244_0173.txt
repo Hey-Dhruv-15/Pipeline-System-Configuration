@@ -1,0 +1,1 @@
+Hospital intake note :: patient 673 named Rohan Patel age 83 entered WARD-A and is marked observation for lactate review at 2026-03-14T10:32:44Z.

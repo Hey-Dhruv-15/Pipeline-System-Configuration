@@ -1,0 +1,1 @@
+age=93, status admitted, name='Nisha Singh, patient_id:576, extra=QwxemE4kUh2CrBHAvs, captured_at 2026-03-14T04:27:29.466247Z, unit=OPD

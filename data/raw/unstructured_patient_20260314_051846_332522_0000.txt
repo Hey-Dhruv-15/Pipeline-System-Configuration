@@ -1,0 +1,1 @@
+status discharged, age=49, patient_id:523, extra=wBHLKzPgm3K3ocHEwB, unit=RAD, name='A@r@v R3ddy, captured_at 2026-03-14T05:18:46.332466Z

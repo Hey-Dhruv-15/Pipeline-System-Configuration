@@ -1,0 +1,1 @@
+status observation, patient_id:611, age=26, captured_at 2026-03-14T06:02:17.415837Z, name='Nisha Patel, unit=ICU, extra=spq34WOQMEzlIdhzmw

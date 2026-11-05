@@ -1,0 +1,1 @@
+Hospital intake note :: patient 568 named Vihaan Patel age 47 entered ICU and is marked observation for cbc review at 2026-03-14T06:08:20Z.

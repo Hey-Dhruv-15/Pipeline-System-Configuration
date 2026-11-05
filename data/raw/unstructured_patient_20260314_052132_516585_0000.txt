@@ -1,0 +1,1 @@
+status , extra=adSFo4H7hFEln4XuBm, captured_at 2026-03-14T05:21:32.516531Z, name='Anaya Sharma, unit=RAD, patient_id:561, age=55

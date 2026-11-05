@@ -1,0 +1,1 @@
+Hospital intake note :: patient 726 named Sara Iyer age 54 entered ICU and is marked critical for creatinine review at 2026-03-14T11:00:46Z.

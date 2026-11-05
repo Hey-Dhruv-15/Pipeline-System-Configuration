@@ -1,0 +1,1 @@
+{"event_type": "device_stream", "patient": {"id": "533", "name": "Nitya Verma", "age": 20}, "device": {"unit": "WARD-A", "status": "critical"}, "recorded_at": "2026-03-14T10:17:03Z"}

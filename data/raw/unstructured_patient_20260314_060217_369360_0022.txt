@@ -1,0 +1,1 @@
+status admitted, captured_at 2026-03-14T06:02:17.369327Z, extra=wbOpwHjYIH9WCpbNIQ, unit=OPD, name='Diya Jain, age=1, patient_id:990

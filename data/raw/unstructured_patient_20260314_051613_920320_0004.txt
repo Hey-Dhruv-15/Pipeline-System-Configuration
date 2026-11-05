@@ -1,0 +1,1 @@
+captured_at 2026-03-14T05:16:13.920222Z, status observation, age=11, patient_id:478, extra=WfnR0ih1UGTA3EZhGM, name='Vihaan Menon, unit=ICU

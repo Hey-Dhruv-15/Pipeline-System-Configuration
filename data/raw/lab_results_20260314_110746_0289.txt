@@ -1,0 +1,1 @@
+Hospital intake note :: patient 789 named Nitya Singh age 89 entered WARD-A and is marked awaiting_review for glucose review at 2026-03-14T11:07:46Z.

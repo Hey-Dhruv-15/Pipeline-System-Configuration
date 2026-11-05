@@ -1,0 +1,1 @@
+Hospital intake note :: patient 713 named Nitya Gupta age 76 entered LAB and is marked awaiting_review for lactate review at 2026-03-14T06:24:21Z.

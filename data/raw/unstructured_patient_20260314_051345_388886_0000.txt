@@ -1,0 +1,1 @@
+captured_at 2026-03-14T05:13:45.388797Z, unit=ER, patient_id:569, age=, extra=AcQxvxOBvIV3dpDgeT, status admitted, name='Anaya Khan

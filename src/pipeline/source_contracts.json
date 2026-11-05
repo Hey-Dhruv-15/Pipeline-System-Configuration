@@ -1,0 +1,37 @@
+{
+  "default_parser_version": "2026.03",
+  "sources": {
+    ".csv": {
+      "source_type": "backend_csv",
+      "field_aliases": {
+        "id": ["patient_id", "patient id", "id"],
+        "name": ["patient_name", "patient name", "name", "patient"],
+        "age": ["age"]
+      }
+    },
+    ".json": {
+      "source_type": "device_json",
+      "field_aliases": {
+        "id": ["patient_id", "id"],
+        "name": ["patient_name", "name", "patient"],
+        "age": ["age"]
+      }
+    },
+    ".log": {
+      "source_type": "monitor_log",
+      "field_aliases": {
+        "id": ["patient_id", "patient id", "id"],
+        "name": ["patient_name", "patient name", "name", "patient"],
+        "age": ["age"]
+      }
+    },
+    ".txt": {
+      "source_type": "lab_text",
+      "field_aliases": {
+        "id": ["patient_id", "patient id", "id"],
+        "name": ["patient_name", "patient name", "name", "patient"],
+        "age": ["age"]
+      }
+    }
+  }
+}

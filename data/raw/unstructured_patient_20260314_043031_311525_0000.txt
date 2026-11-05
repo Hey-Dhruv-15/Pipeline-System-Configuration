@@ -1,0 +1,1 @@
+status discharged, unit=ICU, age=82, patient_id:627, name='Kabir Singh, extra=J2O0ny1UEyPtoNtwRK, captured_at 2026-03-14T04:30:31.311467Z

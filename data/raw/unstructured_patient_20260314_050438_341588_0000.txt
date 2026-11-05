@@ -1,0 +1,1 @@
+patient_id:873, unit=ICU, age=21, captured_at 2026-03-14T05:04:38.341530Z, extra=ASs7HWzVpXE5V3mwSN, status admitted, name='

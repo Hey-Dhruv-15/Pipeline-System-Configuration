@@ -1,0 +1,1 @@
+Hospital intake note :: patient 572 named Rohan Khan age 50 entered ER and is marked discharged for creatinine review at 2026-03-14T10:43:25Z.

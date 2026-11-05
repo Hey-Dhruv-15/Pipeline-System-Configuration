@@ -1,0 +1,1 @@
+age=54, patient_id:590, unit=WARD-3, captured_at 2026-03-14T04:42:00.941099Z, status observation, extra=RnIO299IPOANRfjh0Q, name='Nisha Patel

@@ -1,0 +1,1 @@
+Hospital intake note :: patient 566 named Sara Das age 16 entered ICU and is marked observation for creatinine review at 2026-03-14T10:20:43Z.

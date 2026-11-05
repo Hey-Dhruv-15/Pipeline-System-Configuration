@@ -1,0 +1,12 @@
+[
+  {
+    "run_id": "run_cf61ad3a19",
+    "headline": "Healthy customer intake with low rejection pressure",
+    "business_message": "The pipeline recovered 15110 analytics-ready records across 4 new files while limiting rejects to 96.",
+    "records_processed": 15110,
+    "rejected_records": 96,
+    "acceptance_rate": 99.4,
+    "recommended_action": "Growth and retention analytics are ready for downstream consumers.",
+    "processed_time": "2026-03-13T11:05:38"
+  }
+]

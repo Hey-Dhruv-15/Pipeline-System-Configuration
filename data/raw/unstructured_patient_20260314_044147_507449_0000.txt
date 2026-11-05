@@ -1,0 +1,1 @@
+status admitted, name='Anaya Menon, extra=RSNPs6q4MVTGEXPUMY, age=22, patient_id:731, captured_at 2026-03-14T04:41:47.507379Z, unit=ICU
