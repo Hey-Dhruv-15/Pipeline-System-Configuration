@@ -1,1 +1,0 @@
-captured_at 2026-03-14T04:50:32.699744Z, patient_id:506, unit=RAD, age=15, name='Nisha Reddy, status observation, extra=j3iBu5mG6HFIOL3Fwg

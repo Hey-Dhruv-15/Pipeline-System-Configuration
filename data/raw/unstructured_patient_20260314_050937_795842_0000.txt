@@ -1,1 +1,0 @@
-status transfer, captured_at 2026-03-14T05:09:37.795788Z, patient_id:687, age=25, name='Arjun Khan, extra=JFaLiqEo1ZtlLFU0Qe, unit=

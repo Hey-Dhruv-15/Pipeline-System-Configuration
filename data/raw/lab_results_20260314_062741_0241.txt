@@ -1,1 +1,0 @@
-Hospital intake note :: patient 741 named Aarav Patel age 50 entered WARD-A and is marked observation for glucose review at 2026-03-14T06:27:41Z.

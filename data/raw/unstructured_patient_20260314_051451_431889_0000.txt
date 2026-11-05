@@ -1,1 +1,0 @@
-captured_at 2026-03-14T05:14:51.431807Z, status observation, extra=fINAugynXwEQK56VI7, unit=ER, age=, patient_id:338, name='Vihaan Menon

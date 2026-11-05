@@ -1,1 +1,0 @@
-captured_at 2026-03-14T05:08:14.053284Z, patient_id:657, unit=ER, extra=6gfMBbZJT8xR9zbbls, name='Anaya Reddy, status discharged, age=94

@@ -1,1 +1,0 @@
-age=23, status admitted, name='Kabir Das, unit=WARD-3, extra=nRfn4np6CW0knWx3fb, captured_at 2026-03-14T05:11:29.417662Z, patient_id:731

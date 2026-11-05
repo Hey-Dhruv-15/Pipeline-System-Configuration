@@ -1,1 +1,0 @@
-extra=sadylJfTplfZ8DsgqZ, name='Anaya Gupta, status admitted, unit=ER, captured_at 2026-03-14T04:30:48.620493Z, patient_id:232, age=66

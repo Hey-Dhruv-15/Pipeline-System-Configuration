@@ -1,1 +1,0 @@
-age=68, captured_at 2026-03-14T04:42:11.243236Z, status transfer, extra=bFsiVXnnpYs6wcB7pU, patient_id:613, name='Nisha Khan, unit=OPD

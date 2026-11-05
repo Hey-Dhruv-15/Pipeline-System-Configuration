@@ -1,1 +1,0 @@
-unit=WARD-3, patient_id:654, status admitted, extra=vjHRqvx7tUds37lSIA, name=', age=84, captured_at 2026-03-14T05:25:49.638982Z

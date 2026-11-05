@@ -1,1 +1,0 @@
-extra=TUYCYnqFVkhCwcL48k, status transfer, patient_id:355, unit=LAB, captured_at 2026-03-14T04:53:36.350873Z, age=49, name='Arjun Patel

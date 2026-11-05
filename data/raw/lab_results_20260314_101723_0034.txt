@@ -1,1 +1,0 @@
-Hospital intake note :: patient 534 named Rohan Khan age 37 entered WARD-A and is marked awaiting_review for glucose review at 2026-03-14T10:17:23Z.

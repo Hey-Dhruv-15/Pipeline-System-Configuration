@@ -1,1 +1,0 @@
-unit=ER, captured_at 2026-03-14T05:07:28.838020Z, name='Arjun Khan, age=58, patient_id:500, status observation, extra=rLTRHdkNDQ4vnYWEEk

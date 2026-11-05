@@ -1,1 +1,0 @@
-age=6, unit=ICU, extra=J3EAbdmGtONyDuz3bd, captured_at 2026-03-14T04:44:59.512098Z, patient_id:822, name='Ishaan Sharma, status discharged

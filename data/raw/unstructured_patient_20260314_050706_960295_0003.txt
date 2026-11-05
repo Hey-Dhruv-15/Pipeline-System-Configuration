@@ -1,1 +1,0 @@
-extra=p5uTbYx0PHnpjYKIKw, status discharged, captured_at 2026-03-14T05:07:06.960254Z, patient_id:454###, age=, name='Ishaan Khan, unit=RAD

@@ -1,1 +1,0 @@
-extra=ZcyBuP2pji3gQSUZyR, status observation??, patient_id:777, captured_at 2026-03-14T04:43:32.867656Z, unit=WARD-3, name='Kabir Iyer, age=62

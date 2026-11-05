@@ -1,1 +1,0 @@
-patient_id:567, name=', extra=bN9EicrbiJDxsyW1p0, captured_at 2026-03-14T04:49:15.380657Z, status transfer, unit=WARD-3, age=

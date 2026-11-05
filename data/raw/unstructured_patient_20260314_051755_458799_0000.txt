@@ -1,1 +1,0 @@
-captured_at 2026-03-14T05:17:55.458721Z, age=, extra=G86hfwxp8htXApYuBA, patient_id:351, unit=ER, name='Meera Menon, status discharged

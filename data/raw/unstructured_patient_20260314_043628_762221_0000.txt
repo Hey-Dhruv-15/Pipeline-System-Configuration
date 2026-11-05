@@ -1,1 +1,0 @@
-patient_id:207, status , captured_at 2026-03-14T04:36:28.762141Z, extra=3uu9FmSAxcr9Ebazgx, age=22, unit=LAB, name='Meera Reddy

@@ -1,1 +1,0 @@
-patient_id:345, extra=5bOV1dJGMMcohirPHq, age=, captured_at 2026-03-14T05:27:03.065243Z, unit=ICU, name='Ishaan Singh, status discharged

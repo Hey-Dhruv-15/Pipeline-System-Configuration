@@ -1,1 +1,0 @@
-status observation, patient_id:740, extra=SWVINxMfE6LGA038Gw, unit=RAD, name='Nisha Das, age=90, captured_at 2026-03-14T05:23:46.814540Z

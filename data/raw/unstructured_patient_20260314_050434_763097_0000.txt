@@ -1,1 +1,0 @@
-captured_at 2026-03-14T05:04:34.763041Z, unit=OPD, age=, extra=3pc9b5Qh9ZVDw6avA7, status , name='Vihaan Singh, patient_id:631

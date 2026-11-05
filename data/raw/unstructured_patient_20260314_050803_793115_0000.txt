@@ -1,1 +1,0 @@
-unit=ICU, status transfer, age=, captured_at 2026-03-14T05:08:03.793070Z, extra=q56KW1SPBHSZjakUpp, name='Meera Singh, patient_id:806

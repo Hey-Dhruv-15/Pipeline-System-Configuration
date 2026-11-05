@@ -1,1 +1,0 @@
-Hospital intake note :: patient 631 named Anaya Reddy age 29 entered ER and is marked awaiting_review for lactate review at 2026-03-14T10:28:04Z.

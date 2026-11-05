@@ -1,1 +1,0 @@
-patient_id:814, extra=jtAjD0uHDk2RbEXpCA, captured_at 2026-03-14T04:57:49.158658Z, unit=LAB, status , name='K@bir Singh, age=92

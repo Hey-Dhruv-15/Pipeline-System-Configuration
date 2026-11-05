@@ -1,1 +1,0 @@
-captured_at 2026-03-14T04:52:01.120887Z, patient_id:242, unit=, status transfer, extra=BwaUXd8Vnxh5bm2HLl, age=12, name='Diya Singh

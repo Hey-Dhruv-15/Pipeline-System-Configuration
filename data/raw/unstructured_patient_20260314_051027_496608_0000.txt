@@ -1,1 +1,0 @@
-age=10, patient_id:935, captured_at 2026-03-14T05:10:27.496467Z, unit=WARD-3, extra=3ADWTiWt3FXpRNeRLc, name='Rohan Menon, status observation

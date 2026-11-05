@@ -1,1 +1,0 @@
-captured_at 2026-03-14T04:49:43.493339Z, name='Aarav Jain, unit=LAB, age=22, patient_id:836, status unknown, extra=SumTURg9CrjDsmTu9B

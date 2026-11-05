@@ -1,1 +1,0 @@
-status admitted, captured_at 2026-03-14T04:55:04.843604Z, extra=Vb0ck5oOBICMc64Wq7, age=14, patient_id:354, unit=ICU, name='Meera Jain

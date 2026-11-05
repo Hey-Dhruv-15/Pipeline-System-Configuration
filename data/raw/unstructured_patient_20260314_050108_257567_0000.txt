@@ -1,1 +1,0 @@
-captured_at 2026-03-14T05:01:08.257526Z, extra=L73NtgLZbZ1eljFqEP, status observation, age=, patient_id:454, unit=OPD, name='Ishaan Khan

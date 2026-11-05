@@ -1,1 +1,0 @@
-captured_at 2026-03-14T04:43:28.910591Z, unit=ICU, status admitted, age=, patient_id:743, extra=oLucsXNeiOkdixEOMw, name='Kabir Menon

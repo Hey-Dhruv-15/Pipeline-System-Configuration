@@ -1,1 +1,0 @@
-captured_at 2026-03-14T04:55:55.156702Z, name='Diya Das, extra=mH5WZzYp1UBzEhi7QF, age=81, status transfer, patient_id:209, unit=ICU

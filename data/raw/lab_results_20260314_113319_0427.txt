@@ -1,1 +1,0 @@
-Hospital intake note :: patient 927 named Kabir Khan age 35 entered WARD-B and is marked critical for lactate review at 2026-03-14T11:33:19Z.

@@ -1,1 +1,0 @@
-captured_at 2026-03-14T04:38:07.466961Z, patient_id:400, name='Aarav Patel, unit=OPD, status observation, extra=pH9tVqFPWnSvnfHOKw, age=

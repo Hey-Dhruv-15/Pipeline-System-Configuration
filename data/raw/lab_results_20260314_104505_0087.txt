@@ -1,1 +1,0 @@
-Hospital intake note :: patient 587 named Ishaan Verma age 90 entered WARD-A and is marked stable for cbc review at 2026-03-14T10:45:05Z.

@@ -1,1 +1,0 @@
-status admitted, patient_id:440, name='Diya Reddy, unit=LAB , captured_at 2026-03-14T06:02:17.334384Z, age=15, extra=Zo0jFy2Cf5mTD7obw6

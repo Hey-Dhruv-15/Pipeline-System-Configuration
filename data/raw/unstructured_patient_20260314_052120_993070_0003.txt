@@ -1,1 +1,0 @@
-name='Anaya Khan, unit=WARD-3, extra=kty5f9uTnYsBkzqIJD, age=5, captured_at 2026-03-14T05:21:20.993010Z, patient_id:792, status observation

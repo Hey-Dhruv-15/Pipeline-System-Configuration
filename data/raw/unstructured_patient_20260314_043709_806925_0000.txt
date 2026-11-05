@@ -1,1 +1,0 @@
-status observation, captured_at 2026-03-14T04:37:09.806821Z, name='Aarav Iyer, extra=7RTofBYbwbBg7Sz77j, unit=WARD-3, patient_id:259, age=22

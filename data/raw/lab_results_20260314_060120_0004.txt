@@ -1,1 +1,0 @@
-Hospital intake note :: patient 504 named Sara Khan age 29 entered WARD-B and is marked critical for glucose review at 2026-03-14T06:01:20Z.

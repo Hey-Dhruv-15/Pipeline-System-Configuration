@@ -1,1 +1,0 @@
-Hospital intake note :: patient 644 named Aarav Verma age 50 entered ER and is marked observation for glucose review at 2026-03-14T10:29:24Z.

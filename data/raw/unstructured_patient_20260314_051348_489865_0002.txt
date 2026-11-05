@@ -1,1 +1,0 @@
-status admitted, extra=eDBco77jfHlOel65wg, captured_at 2026-03-14T05:13:48.489801Z, patient_id:506, age=69, unit=WARD-3, name='Diya Iyer

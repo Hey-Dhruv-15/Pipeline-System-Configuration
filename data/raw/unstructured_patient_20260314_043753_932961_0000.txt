@@ -1,1 +1,0 @@
-extra=CBCy1uuEFMYFN0mLsW, status admitted, captured_at 2026-03-14T04:37:53.932902Z, unit=ICU, age=66, patient_id:226, name='Arjun Patel

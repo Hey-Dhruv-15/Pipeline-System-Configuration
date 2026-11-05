@@ -1,1 +1,0 @@
-status discharged, patient_id:118, unit=ER, age=70, extra=czdVGVxxRomJ4wzpr5, captured_at 2026-03-14T04:30:21.003423Z, name='Diya Patel

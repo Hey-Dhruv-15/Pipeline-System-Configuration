@@ -1,1 +1,0 @@
-Hospital intake note :: patient 556 named Kabir Gupta age 70 entered WARD-B and is marked awaiting_review for creatinine review at 2026-03-14T04:27:13Z.

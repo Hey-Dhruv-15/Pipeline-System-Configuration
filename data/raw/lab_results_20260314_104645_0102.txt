@@ -1,1 +1,0 @@
-Hospital intake note :: patient 602 named Diya Menon age 27 entered WARD-B and is marked awaiting_review for lactate review at 2026-03-14T10:46:45Z.

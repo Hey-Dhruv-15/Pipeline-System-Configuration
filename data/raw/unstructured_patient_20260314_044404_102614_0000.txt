@@ -1,1 +1,0 @@
-captured_at 2026-03-14T04:44:04.102500Z, status observation, name='Anaya Patel, age=21, patient_id:185, unit=ER??, extra=s5Gv8pvoW06xpvPTnT

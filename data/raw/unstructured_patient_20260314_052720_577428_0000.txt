@@ -1,1 +1,0 @@
-extra=HJvXemCjGSdviztiff, unit=RAD, captured_at 2026-03-14T05:27:20.577367Z, name=', age=0, patient_id:963, status transfer

@@ -1,1 +1,0 @@
-extra=AkCgEwqDkBjl7gi25r, captured_at 2026-03-14T04:50:29.021391Z, patient_id:875, unit=ICU, age=92, name='Aarav Iyer, status observation

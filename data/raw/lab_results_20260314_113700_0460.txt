@@ -1,1 +1,0 @@
-Hospital intake note :: patient 960 named Nitya Gupta age 48 entered ICU and is marked discharged for electrolytes review at 2026-03-14T11:37:00Z.

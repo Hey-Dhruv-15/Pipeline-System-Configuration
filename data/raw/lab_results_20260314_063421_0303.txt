@@ -1,1 +1,0 @@
-Hospital intake note :: patient 803 named Anaya Gupta age 18 entered ICU and is marked awaiting_review for troponin review at 2026-03-14T06:34:21Z.

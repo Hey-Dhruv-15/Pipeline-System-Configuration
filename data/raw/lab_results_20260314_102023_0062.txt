@@ -1,1 +1,0 @@
-Hospital intake note :: patient 562 named Ishaan Verma age 20 entered WARD-B and is marked critical for electrolytes review at 2026-03-14T10:20:23Z.

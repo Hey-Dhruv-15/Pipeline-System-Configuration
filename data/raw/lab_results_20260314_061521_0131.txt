@@ -1,1 +1,0 @@
-Hospital intake note :: patient 631 named Aarav Gupta age 72 entered ICU and is marked critical for creatinine review at 2026-03-14T06:15:21Z.

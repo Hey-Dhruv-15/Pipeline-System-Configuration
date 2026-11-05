@@ -1,1 +1,0 @@
-Hospital intake note :: patient 604 named Sara Gupta age 37 entered ER and is marked awaiting_review for cbc review at 2026-03-14T10:25:03Z.

@@ -1,1 +1,0 @@
-captured_at 2026-03-14T04:42:07.738114Z, extra=LYJLp8gNBakE2Dix2c, patient_id:, name='Vihaan Singh, unit=LAB, status transfer, age=13

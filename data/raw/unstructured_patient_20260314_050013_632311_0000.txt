@@ -1,1 +1,0 @@
-age=89, unit=OPD, status discharged, captured_at 2026-03-14T05:00:13.632243Z, patient_id:835, name='Anaya Khan, extra=Lrg5Pxie34Y6asa8wi

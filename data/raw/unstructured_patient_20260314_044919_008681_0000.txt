@@ -1,1 +1,0 @@
-age=27, extra=GCUO0W3NoE2VKeUdJh, captured_at 2026-03-14T04:49:19.008620Z, unit=ICU, name=', patient_id:562, status observation

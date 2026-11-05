@@ -1,1 +1,0 @@
-Hospital intake note :: patient 854 named Aarav Reddy age 65 entered ER and is marked discharged for electrolytes review at 2026-03-14T06:40:02Z.

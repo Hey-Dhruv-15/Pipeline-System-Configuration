@@ -1,1 +1,0 @@
-Hospital intake note :: patient 569 named Kabir Verma age 14 entered WARD-A and is marked critical for lactate review at 2026-03-14T04:28:33Z.

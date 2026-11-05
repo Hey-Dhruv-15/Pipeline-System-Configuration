@@ -1,1 +1,0 @@
-unit=ICU, captured_at 2026-03-14T04:38:11.085087Z, age=53, patient_id:845, status transfer, extra=ML9Q0CSiQBtBEtupRG, name='Anaya Menon

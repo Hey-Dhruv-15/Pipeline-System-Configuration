@@ -1,1 +1,0 @@
-captured_at 2026-03-14T06:02:17.350451Z, unit=ICU, name='Ishaan Gupta, patient_id:108, age=39, status discharged, extra=pmIzspC8WpEGS2RBLX

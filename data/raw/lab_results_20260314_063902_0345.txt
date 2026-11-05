@@ -1,1 +1,0 @@
-Hospital intake note :: patient 845 named Ishaan Patel age 6 entered ER and is marked awaiting_review for lactate review at 2026-03-14T06:39:02Z.

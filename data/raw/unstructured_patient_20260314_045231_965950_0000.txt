@@ -1,1 +1,0 @@
-status observation, age=84, name='Diya Sharma, captured_at 2026-03-14T04:52:31.965900Z, unit=WARD-3, extra=pcTHIU7f7arxgingNt, patient_id:721

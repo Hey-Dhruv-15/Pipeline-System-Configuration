@@ -1,1 +1,0 @@
-Hospital intake note :: patient 825 named Meera Reddy age 85 entered WARD-A and is marked stable for troponin review at 2026-03-14T06:37:01Z.

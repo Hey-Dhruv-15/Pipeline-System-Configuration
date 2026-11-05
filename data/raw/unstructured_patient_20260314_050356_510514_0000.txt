@@ -1,1 +1,0 @@
-status unknown, captured_at 2026-03-14T05:03:56.510459Z, age=30, name=', extra=6X4NPlb7QciYW6lnUA, patient_id:999, unit=WARD-3

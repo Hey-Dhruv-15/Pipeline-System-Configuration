@@ -1,1 +1,0 @@
-Hospital intake note :: patient 817 named Kabir Singh age 10 entered WARD-B and is marked critical for cbc review at 2026-03-14T11:10:47Z.

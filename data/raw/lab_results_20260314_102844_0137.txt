@@ -1,1 +1,0 @@
-Hospital intake note :: patient 637 named Vihaan Iyer age 38 entered ER and is marked critical for cbc review at 2026-03-14T10:28:44Z.

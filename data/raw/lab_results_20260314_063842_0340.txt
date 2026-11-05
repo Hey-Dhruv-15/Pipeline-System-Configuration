@@ -1,1 +1,0 @@
-Hospital intake note :: patient 840 named Ishaan Verma age 92 entered WARD-A and is marked stable for electrolytes review at 2026-03-14T06:38:42Z.

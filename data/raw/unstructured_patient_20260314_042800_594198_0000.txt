@@ -1,1 +1,0 @@
-status admitted, unit=RAD, captured_at 2026-03-14T04:28:00.594147Z, name=', extra=OSSWnlTnbO0wi0ySYk, age=65, patient_id:112

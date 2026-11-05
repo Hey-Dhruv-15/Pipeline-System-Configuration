@@ -1,1 +1,0 @@
-captured_at 2026-03-14T05:06:06.377333Z, extra=3sYm4LAv7YMMk2KNo0, unit=RAD, name=', patient_id:665, age=90, status 

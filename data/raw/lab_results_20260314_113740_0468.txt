@@ -1,1 +1,0 @@
-Hospital intake note :: patient 968 named Anaya Patel age 65 entered ICU and is marked discharged for lactate review at 2026-03-14T11:37:40Z.

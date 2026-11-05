@@ -1,1 +1,0 @@
-age=24, captured_at 2026-03-14T04:54:03.157578Z, unit=ICU, extra=4XgPyWCXYxBGkvPd09, name='Diya Khan, patient_id:954, status admitted

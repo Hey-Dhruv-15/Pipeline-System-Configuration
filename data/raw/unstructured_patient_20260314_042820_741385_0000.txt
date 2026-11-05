@@ -1,1 +1,0 @@
-status discharged, captured_at 2026-03-14T04:28:20.741283Z, unit=ER, extra=mRnHpXungA9mLct5Mw, age=70, patient_id:375, name='Anaya Gupta

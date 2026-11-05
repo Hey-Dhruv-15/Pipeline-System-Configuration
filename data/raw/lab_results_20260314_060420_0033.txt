@@ -1,1 +1,0 @@
-Hospital intake note :: patient 533 named Meera Singh age 59 entered WARD-A and is marked observation for lactate review at 2026-03-14T06:04:20Z.

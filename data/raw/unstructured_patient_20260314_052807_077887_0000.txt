@@ -1,1 +1,0 @@
-patient_id:153, status admitted, extra=WWDgL12M5Wz4URiJV6, name='Diya Khan, captured_at 2026-03-14T05:28:07.077819Z, unit=WARD-3, age=

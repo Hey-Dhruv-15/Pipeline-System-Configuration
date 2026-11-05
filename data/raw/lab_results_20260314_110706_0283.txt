@@ -1,1 +1,0 @@
-Hospital intake note :: patient 783 named Rohan Reddy age 68 entered LAB and is marked observation for cbc review at 2026-03-14T11:07:06Z.

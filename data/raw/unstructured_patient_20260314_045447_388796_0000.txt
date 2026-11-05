@@ -1,1 +1,0 @@
-age=1, unit=ICU, status transfer, patient_id:, extra=B8pJ3uvdBmsptAEs6L, name='Kabir Reddy, captured_at 2026-03-14T04:54:47.388745Z

@@ -1,1 +1,0 @@
-captured_at 2026-03-14T04:54:40.707735Z, extra=0D5hjZN0MtDnlhG9Hb, age=59, name='Nisha Jain, status observation, patient_id:455, unit=ER

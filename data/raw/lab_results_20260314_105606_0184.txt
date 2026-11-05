@@ -1,1 +1,0 @@
-Hospital intake note :: patient 684 named Rohan Patel age 55 entered ICU and is marked stable for cbc review at 2026-03-14T10:56:06Z.

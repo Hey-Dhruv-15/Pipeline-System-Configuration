@@ -1,1 +1,0 @@
-Hospital intake note :: patient 600 named Vihaan Gupta age 70 entered LAB and is marked discharged for creatinine review at 2026-03-14T10:46:45Z.

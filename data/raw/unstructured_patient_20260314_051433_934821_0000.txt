@@ -1,1 +1,0 @@
-status discharged, extra=6vDp57JiPLnPeIlUaK, age=90, unit=ER, name='Kabir Sharma, patient_id:412, captured_at 2026-03-14T05:14:33.934593Z

@@ -1,1 +1,0 @@
-patient_id:671, extra=kTnSxHK1JwBcQCnsre, unit=ICU, age=65, status observation, captured_at 2026-03-14T05:11:53.023133Z, name='Arjun Gupta

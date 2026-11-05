@@ -1,1 +1,0 @@
-captured_at 2026-03-14T04:47:50.157246Z, patient_id:512, status transfer!, name='Nisha Sharma, extra=5ok4JxVVq3DPi1YaDo, unit=ER, age=70

@@ -1,1 +1,0 @@
-extra=2NG8SOrQQM8yf02Brq, status discharged, unit=WARD-3, age=87, captured_at 2026-03-14T05:27:27.528870Z, patient_id:395, name='Anaya Sharma

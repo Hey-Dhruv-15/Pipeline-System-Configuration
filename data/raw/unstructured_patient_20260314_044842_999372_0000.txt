@@ -1,1 +1,0 @@
-name='Ish@@n Sh@rm@, unit=OPD, extra=krg32a5mDpEgGHAF0U, captured_at 2026-03-14T04:48:42.999310Z, patient_id:116, status observation, age=36

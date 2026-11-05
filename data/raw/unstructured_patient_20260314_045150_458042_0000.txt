@@ -1,1 +1,0 @@
-captured_at 2026-03-14T04:51:50.457969Z, patient_id:973, age=49, status admitted, extra=meekcXbcFXaeEz5jtW, unit=ICU, name='Arjun Khan

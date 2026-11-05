@@ -1,1 +1,0 @@
-Hospital intake note :: patient 722 named Nitya Menon age 24 entered WARD-A and is marked discharged for troponin review at 2026-03-14T11:00:06Z.

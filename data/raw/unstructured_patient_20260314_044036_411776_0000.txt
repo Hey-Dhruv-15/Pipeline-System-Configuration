@@ -1,1 +1,0 @@
-age=17, status transfer, captured_at 2026-03-14T04:40:36.411721Z, patient_id:468, name='Vihaan Menon, unit=WARD-3, extra=W7zhpkeLeYKhUXoaT5

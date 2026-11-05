@@ -1,1 +1,0 @@
-age=70, name='Anaya Menon, unit=OPD, status unknown, extra=98EWoouq604ZoyHlb6, captured_at 2026-03-14T04:34:10.323393Z, patient_id:698

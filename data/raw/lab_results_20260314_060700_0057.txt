@@ -1,1 +1,0 @@
-Hospital intake note :: patient 557 named Rohan Patel age 26 entered WARD-A and is marked critical for cbc review at 2026-03-14T06:07:00Z.

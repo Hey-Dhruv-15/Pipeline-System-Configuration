@@ -1,1 +1,0 @@
-age=77, patient_id:611, name=', unit=OPD??, status observation, extra=rBnCBxFr5h4XXaLBzI, captured_at 2026-03-14T04:33:22.033273Z

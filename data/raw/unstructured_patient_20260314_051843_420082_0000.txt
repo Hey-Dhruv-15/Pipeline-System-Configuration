@@ -1,1 +1,0 @@
-extra=O0vBJKtldoVakDBvXF, unit=ICU, age=73, status observation, captured_at 2026-03-14T05:18:43.420031Z, patient_id:530, name='Rohan Reddy

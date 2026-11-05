@@ -1,1 +1,0 @@
-Hospital intake note :: patient 789 named Ishaan Verma age 78 entered WARD-A and is marked discharged for lactate review at 2026-03-14T06:33:01Z.

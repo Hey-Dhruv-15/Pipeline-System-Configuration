@@ -1,1 +1,0 @@
-age=58, unit=OPD, patient_id:587, captured_at 2026-03-14T05:15:23.166341Z, status observation, extra=S88YOw2krFae6rzpgP, name='Anaya Jain

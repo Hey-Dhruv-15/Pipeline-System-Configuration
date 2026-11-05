@@ -1,1 +1,0 @@
-status discharged, captured_at 2026-03-14T04:45:53.180306Z, extra=ssfjVAEyxPxgA7NJWD, name='Rohan Khan, unit=OPD, patient_id:550, age=91

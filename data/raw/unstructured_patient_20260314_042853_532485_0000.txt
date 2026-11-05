@@ -1,1 +1,0 @@
-age=69, status transfer , captured_at 2026-03-14T04:28:53.532431Z, patient_id:349, unit=ER, name='Anaya Reddy, extra=Q1T68EEQxCI9WN24fO

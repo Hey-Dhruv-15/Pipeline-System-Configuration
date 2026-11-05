@@ -1,1 +1,0 @@
-Hospital intake note :: patient 873 named Nitya Patel age 51 entered RAD and is marked awaiting_review for lactate review at 2026-03-14T11:27:19Z.

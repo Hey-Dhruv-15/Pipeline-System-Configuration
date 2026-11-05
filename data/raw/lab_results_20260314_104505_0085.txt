@@ -1,1 +1,0 @@
-Hospital intake note :: patient 585 named Rohan Sharma age 32 entered WARD-A and is marked awaiting_review for troponin review at 2026-03-14T10:45:05Z.

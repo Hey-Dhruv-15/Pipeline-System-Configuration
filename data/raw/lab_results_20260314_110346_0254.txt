@@ -1,1 +1,0 @@
-Hospital intake note :: patient 754 named Rohan Iyer age 77 entered ER and is marked critical for lactate review at 2026-03-14T11:03:46Z.

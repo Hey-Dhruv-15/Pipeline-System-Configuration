@@ -1,1 +1,0 @@
-Hospital intake note :: patient 743 named Rohan Gupta age 23 entered ICU and is marked stable for glucose review at 2026-03-14T06:27:41Z.

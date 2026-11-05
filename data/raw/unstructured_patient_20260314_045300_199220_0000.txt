@@ -1,1 +1,0 @@
-unit=OPD, status unknown, patient_id:598, extra=ASvY7C9Lg0svzKF3GP, age=90, name='Rohan Khan, captured_at 2026-03-14T04:53:00.199142Z

@@ -1,1 +1,0 @@
-captured_at 2026-03-14T05:00:18.623487Z, status transfer!, name='Nisha Iyer, unit=, age=20, patient_id:, extra=UIGC0HGwPoFa9bMoJt

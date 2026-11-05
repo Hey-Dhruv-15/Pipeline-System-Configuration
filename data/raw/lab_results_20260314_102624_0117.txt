@@ -1,1 +1,0 @@
-Hospital intake note :: patient 617 named Ishaan Gupta age 84 entered ER and is marked awaiting_review for lactate review at 2026-03-14T10:26:24Z.

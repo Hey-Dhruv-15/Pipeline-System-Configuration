@@ -1,1 +1,0 @@
-captured_at 2026-03-14T04:56:05.263185Z, unit=RAD, age=55###, status unknown, extra=wqBF78fJpjfsiDEc8q, patient_id:336, name='Aarav Reddy

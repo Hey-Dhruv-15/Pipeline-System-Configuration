@@ -1,1 +1,0 @@
-Hospital intake note :: patient 710 named Vihaan Das age 91 entered WARD-B and is marked critical for lactate review at 2026-03-14T06:24:01Z.

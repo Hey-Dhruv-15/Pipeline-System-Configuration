@@ -1,1 +1,0 @@
-Hospital intake note :: patient 504 named Aarav Menon age 87 entered WARD-B and is marked discharged for lactate review at 2026-03-14T10:14:03Z.

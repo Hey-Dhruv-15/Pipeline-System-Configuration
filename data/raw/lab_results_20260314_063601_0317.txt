@@ -1,1 +1,0 @@
-Hospital intake note :: patient 817 named Ishaan Gupta age 46 entered ER and is marked observation for cbc review at 2026-03-14T06:36:01Z.

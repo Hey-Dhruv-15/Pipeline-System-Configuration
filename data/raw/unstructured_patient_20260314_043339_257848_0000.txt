@@ -1,1 +1,0 @@
-patient_id:626, name='Meera Patel, age=55, captured_at 2026-03-14T04:33:39.257774Z, extra=Wkto768JceBz0CIgEF, unit=WARD-3, status unknown

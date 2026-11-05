@@ -1,1 +1,0 @@
-extra=OgkG5TPXjcW6NN9YyX, age=57, unit=WARD-3, captured_at 2026-03-14T06:02:17.324446Z, patient_id:675, status discharged , name='Diya Patel

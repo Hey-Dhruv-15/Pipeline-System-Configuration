@@ -1,1 +1,0 @@
-Hospital intake note :: patient 679 named Vihaan Verma age 61 entered ICU and is marked critical for creatinine review at 2026-03-14T10:33:24Z.

@@ -1,1 +1,0 @@
-Hospital intake note :: patient 915 named Kabir Reddy age 32 entered ER and is marked critical for creatinine review at 2026-03-14T11:31:59Z.

@@ -1,1 +1,0 @@
-name='Meera Gupta, unit=ICU, captured_at 2026-03-14T05:19:29.967278Z, age=29, patient_id:, extra=vZbLAl4q2ASCzhoGQx, status admitted

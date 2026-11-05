@@ -1,1 +1,0 @@
-Hospital intake note :: patient 701 named Kabir Gupta age 40 entered WARD-A and is marked stable for cbc review at 2026-03-14T06:23:01Z.

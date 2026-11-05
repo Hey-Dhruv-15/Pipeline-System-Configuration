@@ -1,1 +1,0 @@
-captured_at 2026-03-14T05:21:04.770571Z, age=14, extra=RP7BlyCMuuerhk3XEB, name='Meera Khan, patient_id:605, status discharged, unit=ICU

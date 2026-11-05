@@ -1,1 +1,0 @@
-unit=WARD-3###, age=80, extra=IbAiGdpQ9vVkfgO5mN, captured_at 2026-03-14T04:47:02.895186Z, name='Vihaan Khan, status transfer, patient_id:

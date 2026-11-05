@@ -1,1 +1,0 @@
-Hospital intake note :: patient 772 named Sara Patel age 7 entered WARD-A and is marked awaiting_review for lactate review at 2026-03-14T06:31:01Z.
